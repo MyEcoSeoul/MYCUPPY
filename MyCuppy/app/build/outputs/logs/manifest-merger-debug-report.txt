@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\725jj\.android\build-cache\66571ce769a833d11066ba75bea71f582e341df1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\725jj\.android\build-cache\51ee99ed9abc6df848c19b0238ab168e9749395a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\725jj\.android\build-cache\ffc90ddb40f16f245f6c2c0e6190534f49abc1dd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\725jj\.android\build-cache\fe1c23d5ad9e884477aeae14ef01d019f02daef3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\725jj\.android\build-cache\3cc8720b1a0e63abfa607495a2082a6565cdc696\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\725jj\.android\build-cache\9f9496a7fb243b8f880b52e3e46557498d094198\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\725jj\.android\build-cache\8543405eb92481da016f242c487537bc47e3c200\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\725jj\.android\build-cache\3800eca40f8870cb47d67b6f8ce7bbb29983f427\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\725jj\.android\build-cache\5b217c1ac44c849e9009fbc6b354bb095d96e4a5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\725jj\.android\build-cache\518eca5ce95fca6a5ad4bc3ec508a15f51919ca1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\725jj\.android\build-cache\fca684393963762e8ebf41575bbc98ef58bea7d0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\725jj\.android\build-cache\1160d9466158f903ca81b2bceaa60d44b35a51ec\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:11:9-40
+activity#a2018seoulapp.mycuppy.MainActivity
+ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\725jj\.android\build-cache\66571ce769a833d11066ba75bea71f582e341df1\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\725jj\.android\build-cache\51ee99ed9abc6df848c19b0238ab168e9749395a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\725jj\.android\build-cache\ffc90ddb40f16f245f6c2c0e6190534f49abc1dd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\725jj\.android\build-cache\fe1c23d5ad9e884477aeae14ef01d019f02daef3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\725jj\.android\build-cache\a1aa737fa6252e8e4b7bda77724b4d42f60ebee9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\725jj\.android\build-cache\3cc8720b1a0e63abfa607495a2082a6565cdc696\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\725jj\.android\build-cache\9f9496a7fb243b8f880b52e3e46557498d094198\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\725jj\.android\build-cache\8543405eb92481da016f242c487537bc47e3c200\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\725jj\.android\build-cache\3800eca40f8870cb47d67b6f8ce7bbb29983f427\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\725jj\.android\build-cache\5b217c1ac44c849e9009fbc6b354bb095d96e4a5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\725jj\.android\build-cache\518eca5ce95fca6a5ad4bc3ec508a15f51919ca1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\725jj\.android\build-cache\fca684393963762e8ebf41575bbc98ef58bea7d0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\725jj\.android\build-cache\1160d9466158f903ca81b2bceaa60d44b35a51ec\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\725jj\.android\build-cache\66571ce769a833d11066ba75bea71f582e341df1\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\725jj\Documents\GitHub\EcoMileage\MyCuppy\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\725jj\.android\build-cache\66571ce769a833d11066ba75bea71f582e341df1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\725jj\.android\build-cache\51ee99ed9abc6df848c19b0238ab168e9749395a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\725jj\.android\build-cache\ffc90ddb40f16f245f6c2c0e6190534f49abc1dd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\725jj\.android\build-cache\fe1c23d5ad9e884477aeae14ef01d019f02daef3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\725jj\.android\build-cache\a1aa737fa6252e8e4b7bda77724b4d42f60ebee9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\725jj\.android\build-cache\3cc8720b1a0e63abfa607495a2082a6565cdc696\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\725jj\.android\build-cache\9f9496a7fb243b8f880b52e3e46557498d094198\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\725jj\.android\build-cache\8543405eb92481da016f242c487537bc47e3c200\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\725jj\.android\build-cache\3800eca40f8870cb47d67b6f8ce7bbb29983f427\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\725jj\.android\build-cache\5b217c1ac44c849e9009fbc6b354bb095d96e4a5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\725jj\.android\build-cache\518eca5ce95fca6a5ad4bc3ec508a15f51919ca1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\725jj\.android\build-cache\fca684393963762e8ebf41575bbc98ef58bea7d0\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\725jj\.android\build-cache\66571ce769a833d11066ba75bea71f582e341df1\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\725jj\.android\build-cache\66571ce769a833d11066ba75bea71f582e341df1\output\AndroidManifest.xml:26:9-47
